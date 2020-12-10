@@ -1,11 +1,13 @@
 # KickNiks Online Shoe Store
 
-###Made with 
-###Front end
+##Made with
+
+##Front end
 - ReactJS
 - Redux
 - Material UI
-###Back end
+
+##Back end
 - NodeJS
 - ExpressJS
 - MongoDB
