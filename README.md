@@ -1,8 +1,8 @@
 # KickNiks Online Shoe Store
 
-##Made with
+## Made with
 
-##Back end
+## Back end
 - NodeJS
 - ExpressJS
 - MongoDB
